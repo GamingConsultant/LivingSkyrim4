@@ -4,4 +4,4 @@ In this section we will be modifying the list to run at a lower resolution while
 - Navigate to where you instaleld Living Skyrim
 - Run ModOrganizer
 - Search for SSE Display tweaks
-- ![alt text](https://github.com/GamingConsultant/LivingSkyrim4/blob/main/Images/Performance/per1.PNG)
+![alt text](https://github.com/GamingConsultant/LivingSkyrim4/blob/main/Images/Performance/per1.PNG)
