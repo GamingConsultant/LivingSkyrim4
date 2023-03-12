@@ -13,7 +13,7 @@ In this section we will be modifying the list to run at a lower resolution while
 5. Navigate inside SKSE\Plugins and Edit SSEDisplayTweaks.ini
 
 	![alt text](https://github.com/GamingConsultant/LivingSkyrim4/blob/main/Images/Performance/per3.png)
-6. Make the follwoing changes
+6. Make the following changes
 	```
 	BorderlessUpscale=true
 	Resolution=2560x1440
