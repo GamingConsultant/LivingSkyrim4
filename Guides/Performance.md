@@ -1,6 +1,13 @@
 # Upscaling LS4
 
-## Upscale (SSE Display tweaks) (AMD+Nvidia supported)
+Choose only one of the following two methods
+
+[SSE Display tweaks Upscale](#sse-display-tweaks-upscale)
+[NVIDIA Upscale](#nvidia-upscale)
+
+## SSE Display tweaks Upscale
+
+*AMD+Nvidia supported
 
 In this section we will be modifying the list to run at a lower resolution while outputting the game at full screen. This will lower the quality (depending on your setup it may or may not be noticeable)
 
@@ -32,7 +39,9 @@ In this section we will be modifying the list to run at a lower resolution while
 	```
 
 
-## Upscale (Nvidia) (Only Nvidia supported)
+## NVIDIA Upscale
+
+*Only Nvidia supported
 
 In this section we will be modifying the list to run at a lower resolution while outputting the game at full screen. This will lower the quality (depending on the your setup it may or may not be noticeable). The difference between this way and the above is that here the driver is doing the upscaling instead of windows.
 Also you get the option to sharpen the image.
