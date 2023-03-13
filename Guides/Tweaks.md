@@ -31,5 +31,5 @@ I tried to smooth out some of the edges
 	fMouseWheelZoomSpeed=1.00 
 	```
 2. Disable in-game DOF
-- Settings > Dispaly > Scroll to the botton and move the depth of field slider to the left
+- Settings > Dispaly > Scroll to the bottom and move the depth of field slider to the left
  
