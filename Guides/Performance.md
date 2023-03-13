@@ -2,27 +2,24 @@
 
 Choose only one of the following two methods
 
-[SSE Display tweaks Upscale](#sse-display-tweaks-upscale)
+[SSE Display tweaks Upscale](#sse-display-tweaks-upscale)  
 [NVIDIA Upscale](#nvidia-upscale)
 
 ## SSE Display tweaks Upscale
 
-*AMD+Nvidia supported
+**AMD+Nvidia supported**
 
 In this section we will be modifying the list to run at a lower resolution while outputting the game at full screen. This will lower the quality (depending on your setup it may or may not be noticeable)
 
 1. Navigate to where you installed Living Skyrim
 2. Run ModOrganizer
-3. Search for SSE Display tweaks
-
+3. Search for SSE Display tweaks  
 	![alt text](https://github.com/GamingConsultant/LivingSkyrim4/blob/main/Images/Performance/per1.PNG)
-4. Right-click the mod and select Open in Explorer
-
+4. Right-click the mod and select Open in Explorer  
 	![alt text](https://github.com/GamingConsultant/LivingSkyrim4/blob/main/Images/Performance/per2.png)
-5. Navigate inside SKSE\Plugins and Edit SSEDisplayTweaks.ini
-
+5. Navigate inside SKSE\Plugins and Edit SSEDisplayTweaks.ini  
 	![alt text](https://github.com/GamingConsultant/LivingSkyrim4/blob/main/Images/Performance/per3.png)
-6. Make the following changes
+6. Make the following changes  
 	- Set Resolution to your monitors resolution
 	- Set ResolutionScale to what you want the game to be rendered at (Resolution x ResolutionScale)
 		- In this example the game will render at 1920x1080
@@ -41,7 +38,7 @@ In this section we will be modifying the list to run at a lower resolution while
 
 ## NVIDIA Upscale
 
-*Only Nvidia supported
+**Only Nvidia supported**
 
 In this section we will be modifying the list to run at a lower resolution while outputting the game at full screen. This will lower the quality (depending on the your setup it may or may not be noticeable). The difference between this way and the above is that here the driver is doing the upscaling instead of windows.
 Also you get the option to sharpen the image.
