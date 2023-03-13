@@ -9,3 +9,19 @@ I tried to smooth out some of the edges
 
 2. Activate Vertical sync  
 ![alt text](https://github.com/GamingConsultant/LivingSkyrim4/blob/main/Images/Performance/per9.png)
+
+
+## SSE Display Tweaks
+1. Enable FPS limit on main screen  
+  ```
+	UIFramerateLimitMain=60
+	UIFramerateLimitMainVSyncOff=false  
+  ```
+2. Maybe help with stutters a bit
+  ```
+  [HAVOK]
+	MinimumFramerate=40
+  MaximumFramerate=120
+  ```
+
+ 
