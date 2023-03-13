@@ -13,15 +13,15 @@ I tried to smooth out some of the edges
 
 ## SSE Display Tweaks
 1. Enable FPS limit on main screen  
-  ```
+	```
 	UIFramerateLimitMain=60
 	UIFramerateLimitMainVSyncOff=false  
-  ```
+	```
 2. Maybe help with stutters a bit
-  ```
-  [HAVOK]
+	```
+	[HAVOK]
 	MinimumFramerate=40
-  MaximumFramerate=120
-  ```
+	MaximumFramerate=120
+	```
 
  
