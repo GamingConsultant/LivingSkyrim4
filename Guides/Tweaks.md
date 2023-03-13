@@ -23,5 +23,11 @@ I tried to smooth out some of the edges
 	MinimumFramerate=40
 	MaximumFramerate=120
 	```
-
+	
+## INI tweaks
+1. Smooth out zooming  
+	```
+	[Camera]
+	fMouseWheelZoomSpeed=1.00 
+	```
  
