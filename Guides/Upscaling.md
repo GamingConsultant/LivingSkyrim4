@@ -2,8 +2,8 @@
 
 Choose only one of the following two methods
 
-[SSE Display tweaks Upscale](#sse-display-tweaks-upscale)  
-[NVIDIA Upscale](#nvidia-upscale)
+- [SSE Display tweaks Upscale](#sse-display-tweaks-upscale)  
+- [NVIDIA Upscale](#nvidia-upscale)
 
 ## SSE Display tweaks Upscale
 
