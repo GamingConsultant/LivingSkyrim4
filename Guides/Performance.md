@@ -1,8 +1,10 @@
-### Upscale (SSE Display tweaks) (AMD+Nvidia supported)
+# Upscaling LS4
 
-In this section we will be modifying the list to run at a lower resolution while outputing the game at full screen. This will lower the quality (depending on the your setup it may or may not be noticable )
+## Upscale (SSE Display tweaks) (AMD+Nvidia supported)
 
-1. Navigate to where you instaleld Living Skyrim
+In this section we will be modifying the list to run at a lower resolution while outputting the game at full screen. This will lower the quality (depending on your setup it may or may not be noticeable)
+
+1. Navigate to where you installed Living Skyrim
 2. Run ModOrganizer
 3. Search for SSE Display tweaks
 
@@ -30,9 +32,9 @@ In this section we will be modifying the list to run at a lower resolution while
 	```
 
 
-### Upscale (Nvidia) (Only Nvidia supported)
+## Upscale (Nvidia) (Only Nvidia supported)
 
-In this section we will be modifying the list to run at a lower resolution while outputing the game at full screen. This will lower the quality (depending on the your setup it may be noticable or not). The differnece between this way and the above is that here the driver is doing the upscaling instead of windows.
+In this section we will be modifying the list to run at a lower resolution while outputting the game at full screen. This will lower the quality (depending on the your setup it may or may not be noticeable). The difference between this way and the above is that here the driver is doing the upscaling instead of windows.
 Also you get the option to sharpen the image.
 
 1. Open Nvidia Control Panel, navigate to Manage 3D Settings > Program Settings and Select Add, then choose skyrim that's located in the folder you installed LS4
@@ -44,7 +46,7 @@ Also you get the option to sharpen the image.
 3. Navigate to Change Resolution and see which resoltions are available (this will be needed in step 7)
 
 	![alt text](https://github.com/GamingConsultant/LivingSkyrim4/blob/main/Images/Performance/per7.png)
-5. Navigate to where you instaleld Living Skyrim
+5. Navigate to where you installed Living Skyrim
 6. Run ModOrganizer
 7. At the top toolbar (the larger icons), select Tools then INI editor
 
